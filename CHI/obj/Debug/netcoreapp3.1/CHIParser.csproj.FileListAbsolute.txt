@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\CHI\CHIParser\bin\Debug\netcoreapp3.1\CHIParser.deps.json
+C:\Users\HP\source\repos\CHI\CHIParser\bin\Debug\netcoreapp3.1\CHIParser.dll
+C:\Users\HP\source\repos\CHI\CHIParser\bin\Debug\netcoreapp3.1\CHIParser.pdb
+C:\Users\HP\source\repos\CHI\CHIParser\obj\Debug\netcoreapp3.1\CHIParser.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CHI\CHIParser\obj\Debug\netcoreapp3.1\CHIParser.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CHI\CHIParser\obj\Debug\netcoreapp3.1\CHIParser.AssemblyInfo.cs
+C:\Users\HP\source\repos\CHI\CHIParser\obj\Debug\netcoreapp3.1\CHIParser.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CHI\CHIParser\obj\Debug\netcoreapp3.1\CHIParser.dll
+C:\Users\HP\source\repos\CHI\CHIParser\obj\Debug\netcoreapp3.1\CHIParser.pdb

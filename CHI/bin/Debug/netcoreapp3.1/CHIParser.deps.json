@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CHIParser/0.1.0-alpha": {
+        "runtime": {
+          "CHIParser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CHIParser/0.1.0-alpha": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
