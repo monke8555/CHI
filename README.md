@@ -1,9 +1,12 @@
-# CHI
-CHI (Compressed Hex Image), an image format that contains hex codes for displaying the image, and can be written using any text editor and programming language.
+<h1 align="center">CHI</h1>  
 
+<h4>CHI (Compressed Hex Image), an image format that contains hex codes for displaying the image, and can be written using any text editor and programming language.</h4>
+
+## Support
+The CLI is currently only for Windows, but CHI itself can run on any .NET Core compatible OS (e.g. Linux, macOS, Windows)
 ## Building from source
 ### Requirements
-.NET Core 3.1
+.NET Core 3.1  
 ### Building
 #### CLI
 To build the CLI, cd into CHI/chi-cli, then run the following:  
@@ -12,7 +15,7 @@ To build the CLI, cd into CHI/chi-cli, then run the following:
 To run it using dotnet,  
 ```dotnet run```  
   
-The executable can be found under bin/Debug, named chi-cli.exe  
+The output executable can be found under bin/Debug, named chi-cli.exe  
 #### CHI  
 To build CHI, cd into CHI/CHI, then run the following:  
 ```dotnet build```  
@@ -20,4 +23,4 @@ To build CHI, cd into CHI/CHI, then run the following:
 To run it using dotnet,  
 ```dotnet run```  
   
-The DLL can be found under bin/Debug, named CHI.dll
+The output DLL can be found under bin/Debug, named CHI.dll
