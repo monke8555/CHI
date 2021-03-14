@@ -1,6 +1,8 @@
 <h1 align="center">CHI</h1>  
 
-<div align="center"><a href="https://www.buymeacoffee.com/OmerHijazi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" "133" ></a></div>
+<div align="center">  
+<a href="https://www.buymeacoffee.com/OmerHijazi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" "133" ></a>
+</div>
 
 #### CHI (Compressed Hex Image), an image format that contains hex codes for displaying the image, and can be written using any text editor and programming language.
 
