@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1x6WBpe530+dfSyNgES5ScxF5a7URZ3Y6ajVA8QKD3jXKCp3ricn05NSOsBr/goDyS8CCv/WiSB1xmX83Bu9BA==",
+  "dgSpecHash": "cF5EKvWnITo/4RIc94dswF+TjMOn1gZ39lfZt3Ai/dK8bDJSznpPejS8upYx7aWXr8YIbL2tWMQv5n23OeWjAw==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\source\\repos\\CHI\\CHI\\CHI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
