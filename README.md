@@ -6,6 +6,8 @@
 
 #### CHI (Compressed Hex Image), an image format that contains hex codes for displaying the image, and can be written using any text editor and programming language.
 
+[![Join the chat at https://gitter.im/CHImage/community](https://badges.gitter.im/CHImage/community.svg)](https://gitter.im/CHImage/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Support
 The CLI is currently only for Windows, but CHI itself can run on any .NET Core compatible OS (e.g. Linux, macOS, Windows)
 ## Building from source
