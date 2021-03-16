@@ -22,7 +22,6 @@
 ## Support
 
 The CLI is currently only for Windows, but CHI itself can run on any .NET Core compatible OS (e.g. Linux, macOS, Windows)
-
 ## Building from source
 
 ### Requirements
@@ -40,8 +39,6 @@ To run it using dotnet,
 ```dotnet run```    
 
 The output executable can be found under bin/Debug, named chi-cli.exe  
-
-#### CHI  
 
 To build CHI, cd into CHI/CHI, then run the following:  
 ```dotnet build```  
