@@ -6,6 +6,7 @@
 <br>
 <a href="https://nuget.org/packages/chimage"><img src="https://img.shields.io/nuget/v/chimage"></a>
 <a href="https://nuget.org/packages/chimage"><img src="https://img.shields.io/nuget/vpre/chimage?label=nuget prerelease"></a>
+<a href="https://nuget.org/packages/chimage"><img src="https://img.shields.io/nuget/dt/chimage"></a>
 <a href="https://github.com/omerhijazi404/chi/releases"><img src="https://img.shields.io/github/v/release/omerhijazi404/chi"></a>
 <a href="https://github.com/omerhijazi404/chi/releases"><img src="https://img.shields.io/github/v/release/omerhijazi404/chi?include_prereleases&label=prerelease"></a>
 <br>
@@ -14,6 +15,7 @@
 <a href="https://twitter.com/icoooode"><img src="https://img.shields.io/twitter/follow/icoooode?style=flat&logo=twitter&color=blue"></a>
 <a href="#Donating"><img src="readme/donate.svg"></a>
 </div>
+
 
 
 
