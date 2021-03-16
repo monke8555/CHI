@@ -12,8 +12,9 @@
 <a href="https://discord.gg/7KcMNhmRyg"><img src="https://img.shields.io/discord/821285495551033395?label=discord"></a>
 <a href="https://gitter.im/CHImage/community"><img src="https://img.shields.io/gitter/room/omerhijazi404/chi"></a>
 <a href="https://twitter.com/icoooode"><img src="https://img.shields.io/twitter/follow/icoooode?style=flat&logo=twitter&color=blue"></a>
-<a href="#Donating"><img src="data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='47' height='20' role='img' aria-label='donate: '%3e%3ctitle%3edonate%3c/title%3e%3clinearGradient id='s' x2='0' y2='100%25'%3e%3cstop offset='0' stop-color='%23bbb' stop-opacity='.1' /%3e%3cstop offset='1' stop-opacity='.1' /%3e%3c/linearGradient%3e%3cclipPath id='r'%3e%3crect width='47' height='20' rx='3' fill='%23fff' /%3e%3c/clipPath%3e%3cg clip-path='url(%23r)'%3e%3crect width='47' height='20' fill='%23007ec6' /%3e%3crect x='47' width='10' height='20' fill='%23007ec6' /%3e%3crect width='57' height='20' fill='url(%23s)' /%3e%3c/g%3e%3cg fill='%23fff' text-anchor='middle' font-family='Verdana,Geneva,DejaVu Sans,sans-serif' text-rendering='geometricPrecision' font-size='110'%3e%3ctext x='225' y='140' transform='scale(.1)' fill='%23fff' textLength='370'%3edonate%3c/text%3e%3c/g%3e%3c/svg%3e"></a>
+<a href="#Donating"><img src="readme/donate.svg"></a>
 </div>
+
 
 
 
