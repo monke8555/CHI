@@ -1,14 +1,14 @@
 <h1 align="center">CHI</h1>
 <div align="center">  
-<a href="https://github.com/omerhijazi404/CHI/actions/workflows/build.yml"><img src="https://img.shields.io/github/workflow/status/omerhijazi404/CHI/build"></a>
-<a href="https://github.com/omerhijazi404/CHI/issues"><img src="https://img.shields.io/github/issues/omerhijazi404/CHI"></a>
+<a href="https://github.com/omerhijazi404/CHI/actions/workflows/build.yml"><img src="https://img.shields.io/github/workflow/status/omerhijazi404/CHI/build?logo=github"></a>
+<a href="https://github.com/omerhijazi404/CHI/issues"><img src="https://img.shields.io/github/issues/omerhijazi404/CHI?logo=github"></a>
 <br>
 <a href="https://nuget.org/packages/chimage"><img src="https://img.shields.io/nuget/v/chimage?logo=nuget"></a>
-<a href="https://nuget.org/packages/chimage"><img src="https://img.shields.io/nuget/dt/chimage"></a>
-<a href="https://github.com/omerhijazi404/chi/releases"><img src="https://img.shields.io/github/v/release/omerhijazi404/chi"></a>
+<a href="https://nuget.org/packages/chimage"><img src="https://img.shields.io/nuget/dt/chimage?logo=nuget"></a>
+<a href="https://github.com/omerhijazi404/chi/releases"><img src="https://img.shields.io/github/v/release/omerhijazi404/chi?logo=github"></a>
 <br>
-<a href="https://discord.gg/7KcMNhmRyg"><img src="https://img.shields.io/discord/821285495551033395?label=discord"></a>
-<a href="https://gitter.im/CHImage/community"><img src="https://img.shields.io/gitter/room/omerhijazi404/chi"></a>
+<a href="https://discord.gg/7KcMNhmRyg"><img src="https://img.shields.io/discord/821285495551033395?label=discord&logo=discord"></a>
+<a href="https://gitter.im/CHImage/community"><img src="https://img.shields.io/gitter/room/omerhijazi404/chi&logo=gitter"></a>
 <a href="https://twitter.com/icoooode"><img src="https://img.shields.io/twitter/follow/icoooode?style=flat&logo=twitter&color=blue"></a>
 <a href="#Donating"><img src="readme/donate.svg"></a>
 </div>
