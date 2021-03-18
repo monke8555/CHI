@@ -2,13 +2,10 @@
 <div align="center">  
 <a href="https://github.com/omerhijazi404/CHI/actions/workflows/build.yml"><img src="https://img.shields.io/github/workflow/status/omerhijazi404/CHI/build"></a>
 <a href="https://github.com/omerhijazi404/CHI/issues"><img src="https://img.shields.io/github/issues/omerhijazi404/CHI"></a>
-<a href="https://github.com/omerhijazi404/CHI/pulls"><img src="https://img.shields.io/github/issues-pr/omerhijazi404/chi"></a>
 <br>
-<a href="https://nuget.org/packages/chimage"><img src="https://img.shields.io/nuget/v/chimage"></a>
-<a href="https://nuget.org/packages/chimage"><img src="https://img.shields.io/nuget/vpre/chimage?label=nuget prerelease"></a>
+<a href="https://nuget.org/packages/chimage"><img src="https://img.shields.io/nuget/v/chimage?logo=nuget"></a>
 <a href="https://nuget.org/packages/chimage"><img src="https://img.shields.io/nuget/dt/chimage"></a>
 <a href="https://github.com/omerhijazi404/chi/releases"><img src="https://img.shields.io/github/v/release/omerhijazi404/chi"></a>
-<a href="https://github.com/omerhijazi404/chi/releases"><img src="https://img.shields.io/github/v/release/omerhijazi404/chi?include_prereleases&label=prerelease"></a>
 <br>
 <a href="https://discord.gg/7KcMNhmRyg"><img src="https://img.shields.io/discord/821285495551033395?label=discord"></a>
 <a href="https://gitter.im/CHImage/community"><img src="https://img.shields.io/gitter/room/omerhijazi404/chi"></a>
