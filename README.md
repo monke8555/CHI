@@ -25,7 +25,10 @@
 ## Support
 
 The CLI is currently only for Windows, but CHI itself can run on any .NET Core compatible OS (e.g. Linux, macOS, Windows)
-## Building from source
+
+## Installing
+
+## Building manually
 
 ### Requirements
 

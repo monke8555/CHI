@@ -51,17 +51,17 @@
           }
         }
       },
-      "CHI/0.1.0-alpha": {
+      "CHImage/0.1.2-alpha": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "System.Drawing.Common": "5.0.2"
         },
         "compile": {
-          "bin/placeholder/CHI.dll": {}
+          "bin/placeholder/CHImage.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CHI.dll": {}
+          "bin/placeholder/CHImage.dll": {}
         }
       }
     }
@@ -155,7 +155,7 @@
         "version.txt"
       ]
     },
-    "CHI/0.1.0-alpha": {
+    "CHImage/0.1.2-alpha": {
       "type": "project",
       "path": "../CHI/CHI.csproj",
       "msbuildProject": "../CHI/CHI.csproj"
@@ -163,7 +163,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "CHI >= 0.1.0-alpha",
+      "CHImage >= 0.1.2-alpha",
       "System.Drawing.Common >= 5.0.2"
     ]
   },
