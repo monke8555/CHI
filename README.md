@@ -7,7 +7,6 @@
 <a href="https://nuget.org/packages/chimage"><img src="https://img.shields.io/nuget/dt/chimage?logo=nuget"></a>
 <a href="https://github.com/omerhijazi404/chi/releases"><img src="https://img.shields.io/github/v/release/omerhijazi404/chi?logo=github"></a>
 <br>
-<a href="https://discord.gg/7KcMNhmRyg"><img src="https://img.shields.io/discord/821285495551033395?label=discord&logo=discord"></a>
 <a href="https://gitter.im/CHImage/community"><img src="https://img.shields.io/gitter/room/omerhijazi404/chi?logo=gitter"></a>
 <a href="https://twitter.com/icoooode"><img src="https://img.shields.io/twitter/follow/icoooode?style=flat&logo=twitter&color=blue"></a>
 <a href="#Donating"><img src="readme/donate.svg"></a>
